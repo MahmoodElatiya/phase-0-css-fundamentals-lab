@@ -3,3 +3,57 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+.about {
+  background-color: gray;
+  border: 5px solid gray;
+}
+.NewProperties {
+  background-color: gray;
+  border: 5px solid gray;
+}
+.Listings {
+  background-color: gray;
+  border: 5px solid gray;
+}
+.MarketReport {
+  background-color: gray;
+  border: 5px solid gray;
+}
+.Contact {
+  background-color: gray;
+  border: 5px solid gray;
+}
+.go {
+  background-color: gray;
+  border: 5px solid gray;
+}
+section {
+  text-align: center;
+}
+.details {
+background-color: red;
+}
+.a {
+  display: inline-block;
+  border: 5px solid red;
+  margin: 0px 150px 0px 150px;
+}
+.b {
+  display: inline-block;
+  border: 5px solid red;
+  margin: 0px 150px 0px 150px;
+}
+.c {
+  display: inline-block;
+  border: 5px solid red;
+  margin: 0px 150px 0px 150px;
+}
+.d {
+  display: inline-block;
+  border: 5px solid red;
+  margin: 0px 150px 0px 150px;
+}
